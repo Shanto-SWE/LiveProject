@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/LiveProject/static/css/main.beb052b9.chunk.css",
+    "main.js": "/LiveProject/static/js/main.74811910.chunk.js",
+    "main.js.map": "/LiveProject/static/js/main.74811910.chunk.js.map",
+    "runtime-main.js": "/LiveProject/static/js/runtime-main.2e37917e.js",
+    "runtime-main.js.map": "/LiveProject/static/js/runtime-main.2e37917e.js.map",
+    "static/css/2.78afd4a5.chunk.css": "/LiveProject/static/css/2.78afd4a5.chunk.css",
+    "static/js/2.59e1d54c.chunk.js": "/LiveProject/static/js/2.59e1d54c.chunk.js",
+    "static/js/2.59e1d54c.chunk.js.map": "/LiveProject/static/js/2.59e1d54c.chunk.js.map",
+    "static/js/3.c3556995.chunk.js": "/LiveProject/static/js/3.c3556995.chunk.js",
+    "static/js/3.c3556995.chunk.js.map": "/LiveProject/static/js/3.c3556995.chunk.js.map",
+    "index.html": "/LiveProject/index.html",
+    "static/css/2.78afd4a5.chunk.css.map": "/LiveProject/static/css/2.78afd4a5.chunk.css.map",
+    "static/css/main.beb052b9.chunk.css.map": "/LiveProject/static/css/main.beb052b9.chunk.css.map",
+    "static/js/2.59e1d54c.chunk.js.LICENSE.txt": "/LiveProject/static/js/2.59e1d54c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/LiveProject/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e37917e.js",
+    "static/css/2.78afd4a5.chunk.css",
+    "static/js/2.59e1d54c.chunk.js",
+    "static/css/main.beb052b9.chunk.css",
+    "static/js/main.74811910.chunk.js"
+  ]
+}
